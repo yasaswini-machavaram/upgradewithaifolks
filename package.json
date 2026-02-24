@@ -1,0 +1,16 @@
+{
+  "name": "upgradewithaifolks",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "author": "UpgradeWithAIFolks",
+  "license": "ISC",
+  "description": "UpgradeWithAIFolks — Modern Web Application Development Services",
+  "devDependencies": {
+    "vite": "^6.2.0"
+  }
+}
